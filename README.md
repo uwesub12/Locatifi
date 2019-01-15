@@ -1,11 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Locatify Site
 
-You can use the [editor on GitHub](https://github.com/uwesub12/locatify/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Locatify is the mobile application that gives a location direct to a place you want to visit also is platform for tourist to help them get trusted tourist.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
+### Why Locatify?
+Helps navigate quickly.
+Helps 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
